@@ -1,2 +1,1 @@
-ы
-а
+for demonstrating
